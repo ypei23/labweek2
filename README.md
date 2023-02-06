@@ -1,4 +1,4 @@
-# Pytest Lab ![example workflow](https://github.com/ypei23/labweek2/tests/workflows/badge.svg)
+# Pytest Lab ![https://github.com/ypei23/labweek2/actions?query=workflow%3Atests](https://github.com/ypei23/labweek2/workflows/tests/badge.svg)
 
 In this lab you will walk through the basic procedure for creating and contributing to an open source project.
 You will also walk through how to use the pytest framework for running test cases.
